@@ -1,13 +1,13 @@
-import { Link } from "gatsby"
 import React from "react"
-import { FaBars } from "react-icons/fa"
+import { Link } from "gatsby"
 import styled from "styled-components"
+import { FaBars } from "react-icons/fa"
 
 import { menuList } from "../data/MenuList"
 import { Button } from "./Button"
 
 const Nav = styled.div`
-  background: teal;
+  background: transparent;
   height: 80px;
   display: flex;
   justify-content: space-between;
