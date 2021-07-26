@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/Paris.jpg",
+        "alt": "Eiffel Tower Paris",
+        "name": "Paris",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/Toronto.jpg",
+        "alt": "CN Tower Toronto",
+        "name": "Toronto",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/San-Francisco.jpg",
+        "alt": "San Francisco Bridge",
+        "name": "San Francisco",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/Hong-Kong.jpg",
+        "alt": "Hong Kong",
+        "name": "Hong Kong",
+        "button": "View Destination"
+    }
+]
