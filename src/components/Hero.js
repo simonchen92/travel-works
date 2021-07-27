@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import { Button } from "./Button"
-import Video from "../assets/videos/drone-beach-view.mp4"
+import Video from "../assets/videos/video.mp4"
 
 const HeroContainer = styled.div`
   background: #0c0c0c;
@@ -98,8 +98,8 @@ const Hero = () => {
       </HeroBackground>
       <HeroContent>
         <HeroItems>
-          <HeroH1>Unreal Destinations</HeroH1>
-          <HeroP>Out of this world</HeroP>
+          <HeroH1>Unbelievable Destinations</HeroH1>
+          <HeroP>For Unforgettable Memories</HeroP>
           <Button primary="true" round="true" to="/trips">
             Travel Now
           </Button>
