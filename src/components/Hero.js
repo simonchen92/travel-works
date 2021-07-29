@@ -99,7 +99,7 @@ const Hero = () => {
       <HeroContent>
         <HeroItems>
           <HeroH1>Unbelievable Destinations</HeroH1>
-          <HeroP>For Unforgettable Memories</HeroP>
+          <HeroP>And Unforgettable Memories</HeroP>
           <Button primary="true" round="true" to="/trips">
             Travel Now
           </Button>
