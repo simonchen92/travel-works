@@ -1,6 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-import { GatsbyImage, getImage } from "gatsby-plugin-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 import { IoMdCheckmarkCircleOutline } from "react-icons/io"
 import { FaRegLightbulb } from "react-icons/fa"
 import { graphql, useStaticQuery } from "gatsby"
